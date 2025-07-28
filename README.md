@@ -1,0 +1,1 @@
+[trainedClassifier, validationAccuracy] = trainClassifier(Betas);
